@@ -1,2 +1,2 @@
 # information-and-network-security
-bilgi ve ağ güvenliği proje
+bilgi ve ağ güvenliği okul projesi
